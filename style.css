@@ -1,0 +1,37 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: cadetblue;
+  background-color: bisque;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#freelancers-forum {
+  width: 400px;
+  background-color: #ffffff;
+  padding: 20px;
+  border: 2px solid burlywood;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.freelancer-box {
+  border: 20px groove burlywood;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.updating-freelancer {
+  border: 2px solid #ffffff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.average-price {
+  font-weight: bold;
+  align-items: center;
+}
